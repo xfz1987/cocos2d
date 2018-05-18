@@ -1,3 +1,4 @@
+frameworks太大，没有上传
 # 安装cocos
 1.python 2.7.x
 配置环境变量-系统变量 D:\Python27
